@@ -1,13 +1,30 @@
-## Hi there 👋
+## Hi there, I am Fabricio 👋
 
 🌱 I’m currently learning ...
+### Desenvolvedor de Software | Engenheiro de Dados | Entusiasta de IA
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
 </picture
-  
+
+
+![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
+![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
+
+## Sobre mim
+
+- 🌱 Atualmente estou aprendendo **Machine Learning** e **DevOps**.
+- 👯 Estou procurando colaborar em projetos de **Open Source**.
+- 💬 Pergunte-me sobre **Python**, **JavaScript**, **Data Science**.
+- 📫 Como me encontrar: [seu.email@dominio.com](mailto:seu.email@dominio.com)
+- ⚡ Fato curioso: Adoro resolver cubos mágicos e quebra-cabeças!
+
+## Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7
 <!--
 **mrcordas/mrcordas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
