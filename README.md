@@ -18,10 +18,10 @@
 
 ## Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-grey)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7)
 ![C](https://img.shields.io/badge/C-blue)
-![C](https://img.shields.io/badge/C++-blue)
+![C](https://img.shields.io/badge/C++-red)
 <!--
 **mrcordas/mrcordas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
