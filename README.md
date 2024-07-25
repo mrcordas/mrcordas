@@ -1,7 +1,7 @@
 ## Hi there, I am Fabricio 👋
 
 🌱 I’m currently learning ...
-### Desenvolvedor de Software | Engenheiro de Dados | Entusiasta de IA
+### Desenvolvedor de Software
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
@@ -11,16 +11,16 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente estou aprendendo **Machine Learning** e **DevOps**.
-- 👯 Estou procurando colaborar em projetos de **Open Source**.
-- 💬 Pergunte-me sobre **Python**, **JavaScript**, **Data Science**.
-- 📫 Como me encontrar: [seu.email@dominio.com](mailto:seu.email@dominio.com)
-- ⚡ Fato curioso: Adoro resolver cubos mágicos e quebra-cabeças!
+- 🌱 Atualmente estou aprendendo **Python**, **JavaScript**.
+- 👯 Gosto de projetos **Open Source**, **Linux**.
+- 💬 Entusiasta em **C/C++**, **Hack - Exploits - Consoles**
+- 📫 Como me encontrar: [mrcordasandroid@gmail.com](mrcordasandroid@gmail.com)
 
 ## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7
+![JavaScript](https://img.shields.io/badge/JavaScript-F7)
+![C]
 <!--
 **mrcordas/mrcordas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
