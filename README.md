@@ -14,7 +14,7 @@
 - 🌱 Atualmente estou aprendendo **Python**, **JavaScript**.
 - 👯 Gosto de projetos **Open Source**, **Linux**.
 - 💬 Entusiasta em **C/C++**, **Hack - Exploits - Consoles**
-- 📫 Como me encontrar: [mrcordasandroid@gmail.com](mrcordasandroid@gmail.com)
+- 📫 Como me encontrar: [mrcordasandroid@gmail.com]()
 
 ## Tecnologias e Ferramentas
 
