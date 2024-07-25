@@ -7,8 +7,8 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
-</picture
- 
+</picture>
+
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo **Machine Learning** e **DevOps**.
