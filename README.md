@@ -1,7 +1,7 @@
 ## Hi there, I am Fabricio 👋
 
 🌱 Atualmente expandindo conhecimento...
-### Desenvolvedor de Software
+### Desenvolvedor de Software, Eletrônica
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
