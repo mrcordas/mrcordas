@@ -1,6 +1,6 @@
 ## Hi there, I am Fabricio 👋
 
-🌱 I’m currently learning ...
+🌱 Atualmente expandindo conhecimento...
 ### Desenvolvedor de Software
 
 <picture>
