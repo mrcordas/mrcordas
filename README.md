@@ -8,11 +8,7 @@
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/mrcordas/mrcordas/blob/main/hero-image.jpg">
 </picture
-
-
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
-![GitHub stars](https://img.shields.io/github/stars/seu-usuario?style=social)
-
+ 
 ## Sobre mim
 
 - 🌱 Atualmente estou aprendendo **Machine Learning** e **DevOps**.
